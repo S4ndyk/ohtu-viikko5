@@ -1,1 +1,2 @@
 readme initialized
+lets go
